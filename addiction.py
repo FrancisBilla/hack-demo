@@ -1,6 +1,6 @@
 # Adding Inputted Number in Python
 
-x = input("Type a number: ")
+x = input("number: ")
 y = input("Type another number: ")
 
 sum = int(x) + int(y)
